@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Rony Moura&lt;ronymmoura@gmail.com&gt;</Authors>
+    <Company>Intech</Company>
+  </PropertyGroup>
+
+</Project>
